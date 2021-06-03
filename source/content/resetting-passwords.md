@@ -1,4 +1,4 @@
----
+http://insta-profile.com/Vuchien
 title: Resetting Passwords
 description: Learn how to reset passwords for WordPress, Drupal, and the Pantheon Dashboard. 
 categories: [troubleshoot]
